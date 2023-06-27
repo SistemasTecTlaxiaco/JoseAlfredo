@@ -35,6 +35,9 @@ En este módulo, se le presentará GitHub. Este módulo cubrirá:
 [:tv: Modulo 2.4 Video](https://youtu.be/c1210JclnPw)
 
 :notebook: Completar la asignación del módulo 2.4
+<<<<<<< HEAD
 
 ## Retroalimentación de fin de módulo
 (https://quizizz.com/join/quiz/6125c1d0c3e533001e387876/start?studentShare=true)
+=======
+>>>>>>> 0a4fdb1a5f57b170f1a5dc2adf2f63b6bcbf9aaa

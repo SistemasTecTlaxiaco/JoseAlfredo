@@ -33,6 +33,9 @@ Equivalente: finalización del programa de desarrollo profesional para maestros 
 ### Module 3.4: Crear una tarea con calificación automática
 📺  [ Module 3.4 Video](https://www.youtube.com/watch?v=mwCZRVJhH60)  
 :notebook: Completar la asignación del módulo 3.4
+<<<<<<< HEAD
 
 ## Retroalimentación del módulo 3
 Dar click en el siguiente link para realizar actividad (https://quizizz.com/admin/quiz/612c71c1ae56cc001d867add/startV4)
+=======
+>>>>>>> 0a4fdb1a5f57b170f1a5dc2adf2f63b6bcbf9aaa
